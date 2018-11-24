@@ -1,0 +1,16 @@
+{
+  "name": "comics-web-scraping",
+  "version": "1.0.0",
+  "description": "Web scraper to get comics info",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lugDroid",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
